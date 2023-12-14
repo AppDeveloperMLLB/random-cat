@@ -18,5 +18,11 @@
     "prettier": "^2.8.4",
     "typescript": "^4.8.3"
   },
-  "packageManager": "yarn@1.22.19"
+  "packageManager": "yarn@1.22.19",
+  "name": "random-cat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/AppDeveloperMLLB/random-cat.git",
+  "author": "MLLB <app.developer.mllb@gmail.com>",
+  "license": "MIT"
 }
